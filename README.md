@@ -4,7 +4,7 @@ A simple and interactive weather forecast application built using Python and Tki
 
 ## Screenshot
    1. In vs code
-      
+        ![screenshot_1](https://github.com/user-attachments/assets/828c27ff-797c-4fc6-8ed9-ed747d3e5771)
 
    2. In python IDLE
 
