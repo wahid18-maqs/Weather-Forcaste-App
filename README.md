@@ -8,7 +8,8 @@ A simple and interactive weather forecast application built using Python and Tki
 
    2. In python IDLE
 
-       
+       ![weather app _screenshot](https://github.com/user-attachments/assets/7ed4415b-7643-4fd1-994a-79fc24a18db6)
+
 
 ## Features
 
