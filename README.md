@@ -24,5 +24,4 @@ A simple and interactive weather forecast application built using Python and Tki
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-forecast-app.git
-   cd weather-forecast-app
+   git clone https://github.com/wahid18-maqs/Weather-Forcaste-App-.git
