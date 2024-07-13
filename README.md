@@ -39,16 +39,22 @@ A simple and interactive weather forecast application built using Python and Tki
    ```bash
    pip install -r requirements.txt
 
+
 3.Get your OpenWeatherMap API key from OpenWeatherMap and replace your_api_key in the getWeather function with your actual API key.
+
 
 4.Run the application:
  ```bash
    python weather_app.py
 
-   ```
+ ```
 ## Usage
    1.Enter the city name in the search box.
 
    2.Click the search icon.
 
    3.View the current weather and 7-day forecast for the city.
+
+## Contribution
+Follow the standard guidelines for contributions and open issues for feature requests or bug reports.
+Feel free to reach out for any questions or suggestions regarding this project.   
