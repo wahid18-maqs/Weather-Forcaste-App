@@ -2,6 +2,14 @@
 
 A simple and interactive weather forecast application built using Python and Tkinter. This app fetches and displays current weather data and a 7-day forecast for any city.
 
+## Screenshot
+   1. In vs code
+      
+
+   2. In python IDLE
+
+       
+
 ## Features
 
 - Displays current temperature, humidity, pressure, wind speed, and weather description.
@@ -26,7 +34,21 @@ A simple and interactive weather forecast application built using Python and Tki
    ```bash
    git clone https://github.com/wahid18-maqs/Weather-Forcaste-App-.git
 
-2.Install the required packages:
+2. Install the required packages:
    ```bash
-    pip install -r requirements.txt
-   
+   pip install -r requirements.txt
+
+3.Get your OpenWeatherMap API key from OpenWeatherMap and replace *your_api_key* in the 
+  getWeather function with your actual API key.
+
+4.Run the application:
+ ```bash
+   python weather_app.py
+
+```
+## Usage
+   1.Enter the city name in the search box.
+
+   2.Click the search icon.
+
+   3.View the current weather and 7-day forecast for the city.
