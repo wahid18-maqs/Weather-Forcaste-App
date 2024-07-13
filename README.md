@@ -25,3 +25,8 @@ A simple and interactive weather forecast application built using Python and Tki
 1. Clone the repository:
    ```bash
    git clone https://github.com/wahid18-maqs/Weather-Forcaste-App-.git
+
+2.Install the required packages:
+```bash
+   pip install -r requirements.txt
+   
