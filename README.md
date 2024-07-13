@@ -39,14 +39,11 @@ A simple and interactive weather forecast application built using Python and Tki
    ```bash
    pip install -r requirements.txt
 
-
 3.Get your OpenWeatherMap API key from OpenWeatherMap and replace your_api_key in the getWeather function with your actual API key.
-
 
 4.Run the application:
  ```bash
    python weather_app.py
-
  ```
 ## Usage
    1.Enter the city name in the search box.
